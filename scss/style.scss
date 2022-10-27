@@ -1,0 +1,26 @@
+@import '../scss/partials/header',
+        './partials/images-section',
+        './partials/footer';
+
+.continer.header {
+    width: 100vw;
+}
+
+@font-face {
+    font-family: 'header-text';
+    src: url('../webfonts/Sweetly\ Broken.ttf');
+}
+
+@font-face {
+    font-family: 'overlay-text';
+    src: url('../webfonts/DecemberainDemoRegular.ttf');
+}
+
+@font-face {
+    font-family: 'contact-text';
+    src: url('../webfonts/Loveline\ Glamour.ttf');
+}
+@font-face {
+    font-family: 'personal-text';
+    src: url('../webfonts/amaline.otf');
+}
